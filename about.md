@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 
-Contact here. 
+Contact me.
