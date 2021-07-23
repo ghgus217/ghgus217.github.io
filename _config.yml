@@ -1,6 +1,6 @@
 site: ghgus217
 title: ghgus217
-description: develope note
+description: develop note's
 googlewebfonts: Fira+Code:wght@400;500;700
 lang: UTF8
 timezone: asia/seoul
@@ -8,12 +8,12 @@ repo:  https://ghgus217.github.io/ # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
 author:
-  name: p0wex
+  name: ghgus217
   bio: just a minimalist, personal blog
-  username: p0wex # general username
-  github: p0wex # github username
-  twitter: P0Wex # twitter username
-  email: your-email@email.com # email adress
+  username: ghgus217 # general username
+  github: ghgus217 # github username
+  twitter: ghgus217 # twitter username
+  email: ghgus217@ghgus217.com # email adress
 
 # URL settings
 url: "https://ghgus217.github.io/index" 
